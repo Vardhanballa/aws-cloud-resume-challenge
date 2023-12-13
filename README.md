@@ -1,6 +1,6 @@
 # Cloud Resume Challenge On AWS
 
-![Project Logo]image/Blueprint.png)
+![Blueprint]image/Blueprint.png)
 
 ## Description
 
